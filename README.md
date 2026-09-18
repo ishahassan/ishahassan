@@ -6,4 +6,4 @@ Data Science major and Global Fashion Studies Minor at Northeastern University w
 - 🔭 I’m currently working on ... (TBA)
 - 🌱 I’m currently learning ... Mathematical Foundations of AI, Advanced Programming with Data, and Intro to Databases
 - 🛠️ Skills & Tools: Python, Data visualization, Excel, Digital art & design (iPad illustration, photography, layout design), Git/GitHub, VS Code
-- ⚡ Fun fact: ... I collect and thrift vintage watches
+- ⚡ Fun fact: I collect and thrift vintage watches
