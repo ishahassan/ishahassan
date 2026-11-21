@@ -5,5 +5,6 @@ Data Science major and Global Fashion Studies Minor at Northeastern University w
 
 - 🔭 I’m currently working on ... a multi-part project that grows a Python data pipeline into a full REST API with database storage, caching, and tests
 - 🌱 I’m currently learning ... Mathematical Foundations of AI, Advanced Programming with Data, Statistics & Probability, and  to Databases
-- 🛠️ Skills & Tools: Python, data visualization, Excel, digital art & design (iPad illustration, photography, layout design), Git/GitHub, VS Code
+- 🛠️ Skills & Tools: Python, SQL, pandas, NumPy, SciPy, scikit-learn, FastAPI, SQLite, pytest, Streamlit, Git/GitHub, Excel
+- 🎨 Creative side: digital illustration, photography, and design in Figma and Canva
 - ⚡ Fun fact: I collect and thrift vintage watches
